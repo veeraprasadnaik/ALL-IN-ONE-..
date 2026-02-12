@@ -1,4 +1,4 @@
- ALL IN ONE PROJECTS
+  ALL IN ONE PROJECTS
 📌 About This Repository
 
 ALL IN ONE PROJECTS is a comprehensive collection of Electronics, Embedded Systems, IoT, and VLSI projects designed for students, beginners, and enthusiasts.
@@ -58,3 +58,4 @@ Temperature & Humidity monitoring
 Cloud-based device control
 
 Real-time data monitoring
+by PRASAD
