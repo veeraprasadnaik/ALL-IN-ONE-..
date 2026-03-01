@@ -1,4 +1,4 @@
-      ure 👍
+       ure 👍
 Here are 3 fresh, simple, and different versions. You can choose any one for LinkedIn.
 
 🔴🟡🟢 Day 1 | Traffic Light Controller – RTL Design
@@ -117,5 +117,4 @@ Hashtags
 Next Day project post (Day 3)
 
 Just say 👍
-
 
